@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityCachingMinimalExample", "UnityCachingMinimalExample\UnityCachingMinimalExample.csproj", "{8BE4B842-6137-40B9-BCEC-281673010650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleInterface", "ModuleInterface\ModuleInterface.csproj", "{60B2C9EF-082E-4D41-AD5B-A83286670C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module", "Module\Module.csproj", "{EB97BD6E-F8B4-483B-95DB-2EB33FA7927F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE4B842-6137-40B9-BCEC-281673010650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE4B842-6137-40B9-BCEC-281673010650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE4B842-6137-40B9-BCEC-281673010650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE4B842-6137-40B9-BCEC-281673010650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B2C9EF-082E-4D41-AD5B-A83286670C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B2C9EF-082E-4D41-AD5B-A83286670C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B2C9EF-082E-4D41-AD5B-A83286670C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B2C9EF-082E-4D41-AD5B-A83286670C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB97BD6E-F8B4-483B-95DB-2EB33FA7927F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB97BD6E-F8B4-483B-95DB-2EB33FA7927F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB97BD6E-F8B4-483B-95DB-2EB33FA7927F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB97BD6E-F8B4-483B-95DB-2EB33FA7927F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
